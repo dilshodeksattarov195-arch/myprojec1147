@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenprocess",
+        "uuid": 11381681,
+        "checksum": "a6tpe4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
